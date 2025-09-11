@@ -21,9 +21,8 @@
 - 🎼 La música **instrumental** me ayuda a relajarme cuando necesito concentración  
 - 🎶 Y siempre busco nuevas canciones para acompañar mis estudios y proyectos  
 
-
 🎧 **Ahora escuchando en Spotify:**  
-[![Spotify](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW)
+[![Spotify](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) 
 
 ---
 
