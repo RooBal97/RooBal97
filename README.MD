@@ -30,3 +30,10 @@ La música me inspira mientras estudio y programo:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
 
+---
+
+## 📊 Mis estadísticas en GitHub  
+![Romina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=rose_pine)  
+
+---
+
