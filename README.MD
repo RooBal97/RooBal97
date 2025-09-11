@@ -20,4 +20,15 @@ La música me inspira mientras estudio y programo:
 - 🎤 Kpop y Pop de los 80s y 90s  
 - 🎧 Rock suave para concentrarme
 
+---
+
+## 🛠️ Tecnologías y Herramientas  
+✨ Algunas de las que uso y aprendo:  
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 
