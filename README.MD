@@ -23,7 +23,7 @@
 
 
 🎧 **Ahora escuchando en Spotify:**  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/TU-USUARIO)  
+[![Spotify](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW)
 
 ---
 
