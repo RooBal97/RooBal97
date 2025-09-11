@@ -22,7 +22,7 @@
 - 🎶 Y siempre busco nuevas canciones para acompañar mis estudios y proyectos  
 
 🎧 **Ahora escuchando en Spotify:**  
-[![Spotify]((https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/TU-USUARIO)
 
 ---
 
