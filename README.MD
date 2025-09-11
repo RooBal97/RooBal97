@@ -2,5 +2,5 @@
 ## Soy RooBal97
 ### No dejes para mañana lo que puedes hacer hoy :3
 
-** Mensaje en negrita **
-_Mensaje en cursiva_
+** PERFECT DAY | **
+_01/97_
