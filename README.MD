@@ -15,10 +15,15 @@
 
 ---
 
-## 🎶 Mis gustos musicales  
-La música me inspira mientras estudio y programo:  
-- 🎤 Kpop y Pop de los 80s y 90s  
-- 🎧 Rock suave para concentrarme
+## 🎶 Mi mundo musical  
+- 🎤 Amo el **K-Pop**, me motiva y me llena de energía ✨  
+- 🎧 También disfruto el **Pop de los 80s y 90s**, con esos clásicos que nunca pasan de moda 💿  
+- 🎼 La música **instrumental** me ayuda a relajarme cuando necesito concentración  
+- 🎶 Y siempre busco nuevas canciones para acompañar mis estudios y proyectos  
+
+
+🎧 **Ahora escuchando en Spotify:**  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/TU-USUARIO)  
 
 ---
 
