@@ -32,8 +32,5 @@ La música me inspira mientras estudio y programo:
 
 ---
 
-## 📊 Mis estadísticas en GitHub  
-![Romina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=rose_pine)  
-
----
+✨ *Gracias por visitar mi perfil, ¡LOVE YOURSELF!* ✨
 
