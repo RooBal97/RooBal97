@@ -1,4 +1,4 @@
-# ¡Hola soy Romina!
+# ¡Hola soy Romina <3!
 
 
 💻 Estudiante de **Computación e Informática**  
