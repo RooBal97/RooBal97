@@ -5,7 +5,7 @@
 🎯 Apasionada por la **Ciberseguridad, Redes y Desarrollo de Sistemas**  
 🎨 Con gusto por el **Diseño de presentaciones y edición de videos**  
 
----
+
 
 ## 🌸 Un poco sobre mí  
 - 📚 Estudio en el **IESTP Huaycán (4° ciclo, turno diurno)**  
@@ -13,7 +13,7 @@
 - 🚀 Estoy aprendiendo cada día para crecer en el mundo de la tecnología  
 - ☕ Me gusta acompañar el código con un buen café 😄  
 
----
+
 
 ## 🎶 Mi mundo musical  
 - 🎤 Amo el **K-Pop**, me motiva y me llena de energía ✨  
@@ -24,7 +24,7 @@
 🎧 **Ahora escuchando en Spotify:**  
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/9ulqnphzqzn6dtrxud9lmev9p?si=a8e3d6ba28b84ae4)
 
----
+
 
 ## 🛠️ Tecnologías y Herramientas  
 ✨ Algunas de las que uso y aprendo:  
@@ -34,7 +34,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
 
----
+
 
 ✨ *Gracias por visitar mi perfil, ¡LOVE YOURSELF!* ✨
 
