@@ -9,7 +9,7 @@
 
 ## 🌸 Un poco sobre mí  
 - 📚 Estudio en el **IESTP Huaycán (4° ciclo, turno diurno)**  
-- 🛠️ Trabajo con **Bases de datos, UML, sistemas web y mantenimiento de equipos**  
+- 🛠️ Trabajo con **Bases de datos, mantenimiento de equipos, etc**  
 - 🚀 Estoy aprendiendo cada día para crecer en el mundo de la tecnología  
 - ☕ Me gusta acompañar el código con un buen café 😄  
 
